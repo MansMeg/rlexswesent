@@ -12,7 +12,7 @@ swesent
 Sentiment lexicon for Swedish
 }
 \references{
-See Språkbankens resources.
+\url{http://www.ep.liu.se/ecp/126/006/ecp16126006.pdf}
 }
 \keyword{datasets}
 
