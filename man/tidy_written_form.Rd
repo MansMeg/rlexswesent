@@ -12,4 +12,3 @@ tidy_written_form(swesent)
 \description{
 Return the different written forms as a \code{data_frame}
 }
-

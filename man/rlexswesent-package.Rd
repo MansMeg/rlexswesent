@@ -2,11 +2,10 @@
 % Please edit documentation in R/rlexswesent.R
 \docType{package}
 \name{rlexswesent-package}
-\alias{rlexswesent}
 \alias{rlexswesent-package}
+\alias{rlexswesent}
 \title{rlexswesent R package}
 \description{
 An convinience R package that contain the Swedish sentiment lexicon from Språkbanken, 
 together with functionality to use with tidytext formats and dplyr.
 }
-

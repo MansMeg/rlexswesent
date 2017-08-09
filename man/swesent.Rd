@@ -15,4 +15,3 @@ Sentiment lexicon for Swedish
 \url{http://www.ep.liu.se/ecp/126/006/ecp16126006.pdf}
 }
 \keyword{datasets}
-
