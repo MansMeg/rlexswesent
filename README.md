@@ -1,5 +1,7 @@
 # rlexswesent
 
+THIS LEXICON IS OF REALLY POOR QUALITY. DO NOT USE IT.
+
 An R-package for the Swedish sentiment lexicon from Språkbanken. The package contain the Swedish Sentiment lexicon in R data format together with functionality to convert the data to a tidy format.
 
 The original data can be found [here](https://spraakbanken.gu.se/eng/resource/sentimentlex).
